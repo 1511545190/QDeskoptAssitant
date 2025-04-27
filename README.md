@@ -10,5 +10,5 @@ QDesktopAssistant is a desktop efficiency tool designed to help users manage the
 - **Statistics**: View detailed graphs and statistics of your focus sessions over time.
 - **Language Support**: Supports multiple languages for a broader user base.
 
-![原型设计](doc\imgs\原型设计.png)
+![原型设计](https://github.com/1511545190/QDeskoptAssitant/blob/main/doc/imgs/%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1.png)
 
