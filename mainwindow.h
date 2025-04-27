@@ -17,7 +17,11 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_btnStartFocus_clicked();
+
 private:
     Ui::MainWindow *ui;
+    bool isFocusing;
 };
 #endif // MAINWINDOW_H
